@@ -6,6 +6,7 @@
 ![Слайд 3](images/slide3.png)
 ![Слайд 4](images/slide4.png)
 ![Слайд 5](images/slide5.png)
+[https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection/data](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection/data)
 ![Слайд 6](images/slide6.png)
 ![Слайд 7](images/slide7.png)
 ![Слайд 8](images/slide8.jpg)
